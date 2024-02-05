@@ -1,0 +1,27 @@
+{
+  "name": "qkralsgml-common-fun",
+  "version": "0.1.0",
+  "description": "common fun",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qkralsgml78/qkralsgml-common-fun.git"
+  },
+  "keywords": [
+    "common",
+    "js",
+    "cunction",
+    "export",
+    "qkralsgml78",
+    "qkralsgml-common-fun"
+  ],
+  "author": "qkralsgml78",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/qkralsgml78/qkralsgml-common-fun/issues"
+  },
+  "homepage": "https://github.com/qkralsgml78/qkralsgml-common-fun#readme"
+}
