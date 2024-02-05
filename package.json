@@ -1,6 +1,6 @@
 {
   "name": "qkralsgml-common-fun",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "common fun",
   "main": "index.js",
   "scripts": {
